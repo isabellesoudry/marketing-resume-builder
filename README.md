@@ -31,7 +31,7 @@ If you've ever applied to multiple jobs and ended up with 10, 15, or 20 slightly
 
 ---
 
-## Quick start — no coding required
+## IF YOU HAVE NO IDEA HOW TO USE THIS AND DON'T EVEN KNOW WHAT GITHUB IS, READ THESE INSTRUCTIONS
 
 ### Step 1 — Download this skill to your computer
 - Click the green **Code** button at the top of this page → **Download ZIP**
