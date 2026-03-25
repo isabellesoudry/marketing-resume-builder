@@ -39,14 +39,14 @@ If you've ever applied to multiple jobs and ended up with 10, 15, or 20 slightly
 ### Step 2 — Create your CV bank
 You have two options depending on how much setup you want:
 
-  **Option 1 (quikest/easiest):** Skip this step entirely (don't create a CV bank). In Step 3, just paste your most recent CV text directly into the chat when you use the skill and ask it to update based on the JD.
+  **Option 1 (quickest/easiest):** Skip this step entirely (don't create a CV bank). In Step 3, just paste your most recent CV text directly into the chat when you use the skill and ask it to update based on the JD.
 
   **Option 2 (set it up once, never paste your CV again):**
 - 👉 **[Open the Master CV Template](https://docs.google.com/document/d/1vPrf6UYjHTMNTXAnbkXQ2h7PuOaA-KEcsM6J1eCk1pg/edit?tab=t.0)** → File → Make a copy
 - Fill in every job, metric, and tool across your whole career. If you have multiple CV versions, copy bullet points from all of them into the relevant sections. More content = better output.
 - When done: **File → Download → Plain Text (.txt)**
 - Rename the file to `1-all-merged-cv-bank.md`
-- Unzip the "marketing-resume-builder" folder you donwloaded in step 1 → drop your file into `context/` foleder → re-zip (select the entire "marketing-resume-builder" folder, right click, and select compress)
+- Unzip the "marketing-resume-builder" folder you donwloaded in step 1 → drop your file into `context/` folder → re-zip (select the entire "marketing-resume-builder" folder, right click, and select compress)
 
 ### Step 3 — Install the skill in Claude
 - Go to [claude.ai](https://claude.ai) → profile icon → **Settings → Customize → Skills**
