@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(cp -r ~/.claude/skills/resume-tailoring ~/.claude/skills/lifecycle-marketing-resume)",
+      "Read(//Users/isabellesoudry/.claude/skills/**)"
+    ]
+  }
+}
