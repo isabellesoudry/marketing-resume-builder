@@ -1,5 +1,5 @@
 ---
-name: marketing-resume-builder
+name: marketing-resume-builder-public
 description: Use this skill when the user wants to draft, update, or tailor a resume or cover letter for growth marketing, lifecycle, or CRM roles.
 ---
 
