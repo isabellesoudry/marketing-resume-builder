@@ -67,6 +67,66 @@ Every CV this skill produces follows these rules:
 - **Never fabricates** — only reframes real experience in stronger language
 
 ---
+## Quick start for non-technical users
+
+No coding required. If you can use Google Docs, you can use this skill.
+
+---
+
+### The problem this solves
+
+If you've ever applied to multiple jobs and ended up with 10, 15, or 20 slightly different versions of your CV — each one tweaked for a different company or role — this skill is for you.
+
+Instead of maintaining dozens of versions, you create one master document with *everything* in it. Then every time you apply somewhere new, Claude reads the job description, picks the most relevant parts of your experience, rewrites the bullets in the company's language, and produces a tailored CV ready to open in Google Docs.
+
+---
+
+### Step 1 — Copy the master CV template into Google Docs
+
+👉 **[Click here to open the Master CV Template](#)** *(https://docs.google.com/document/d/1vPrf6UYjHTMNTXAnbkXQ2h7PuOaA-KEcsM6J1eCk1pg/edit?tab=t.0)*
+
+- Go to **File → Make a copy** to get your own editable version
+- Fill in every section with your experience — include every job, every metric, every tool you've used
+- If you have multiple versions of the same CV, go through each one and copy the bullet points into the relevant job section. More content = better tailored CVs
+- When done: **File → Download → Plain Text (.txt)**
+- Find the downloaded file on your computer and rename it from `master-cv.txt` to `master-cv.md`
+
+---
+
+### Step 2 — Download the skill
+
+- Click the green **Code** button at the top of this page → **Download ZIP**
+- Unzip the folder on your computer
+- Replace the file `context/1-all-merged-cv-bank.md` with your own `master-cv.md`
+
+---
+
+### Step 3 — Upload the skill to Claude
+
+- Go to [claude.ai](https://claude.ai) and sign in
+- Click your profile icon → **Settings** → **Customize** → **Skills**
+- Click **Upload skill** → select the zipped skill folder
+- Toggle the skill **on**
+
+---
+
+### Step 4 — Tailor your CV
+
+Start a new chat in Claude and paste this:
+
+> "Use my marketing-resume-builder skill. Here's a job I'm applying to: [paste the job description or URL]. Tailor my CV for this role."
+
+Claude will read your master CV, analyse the job description, and produce a tailored CV as a Word document named after the company and role.
+
+---
+
+### Tips for getting the best results
+
+- **Include everything in your master CV** — don't edit yourself. The AI decides what to cut, not you.
+- **Paste the full job description** — the more detail Claude has, the better the language matching
+- **Review the output** — the AI won't fabricate anything, but you should always read through and make sure the framing feels accurate before sending
+- **Update your master CV over time** — add new projects, metrics, and achievements as you go
+
 
 ## Industry framing
 
