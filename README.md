@@ -46,7 +46,7 @@ You have two options depending on how much setup you want:
 - Fill in every job, metric, and tool across your whole career. If you have multiple CV versions, copy bullet points from all of them into the relevant sections. More content = better output.
 - When done: **File → Download → Plain Text (.txt)**
 - Rename the file to `all-experience.md`
-- Unzip the "marketing-resume-builder-public" folder you donwloaded in step 1 → drop your file into `context/` folder → re-zip (select the entire "marketing-resume-builder-public" folder, right click, and select compress)
+- Unzip the "marketing-resume-builder-main" folder you donwloaded in step 1 → drop your file into `context/` folder → re-zip (select the entire "marketing-resume-builder-main" folder, right click, and select compress)
 
 ### Step 3 — Install the skill in Claude
 - Go to [claude.ai](https://claude.ai) → profile icon → **Settings → Customize → Skills**
@@ -56,7 +56,7 @@ You have two options depending on how much setup you want:
 ### Step 3 — Tailor your CV
 Start a new chat in Claude and say:
 
-> "Use my marketing-resume-builder-public skill. Here's a job I'm applying to: [paste job description or URL]. Tailor my CV for this role."
+> "Use my marketing-resume-builder-main skill. Here's a job I'm applying to: [paste job description or URL]. Tailor my CV for this role."
 
 Claude will produce a `.docx` file named after the company and role, ready to open and make final edits.
 
