@@ -42,28 +42,28 @@ You have two options depending on how much setup you want:
   **Option 1 (quickest/easiest):** Skip this step entirely (don't create a CV bank). In Step 3, just paste your most recent CV text directly into the chat when you use the skill and ask it to update based on the JD.
 
   **Option 2 (set it up once, never paste your CV again):**
-- 👉 **[Open the Master CV Template](https://docs.google.com/document/d/1vPrf6UYjHTMNTXAnbkXQ2h7PuOaA-KEcsM6J1eCk1pg/edit?tab=t.0)** → File → Make a copy
+- 👉 **[Open the all experience template](https://docs.google.com/document/d/1vPrf6UYjHTMNTXAnbkXQ2h7PuOaA-KEcsM6J1eCk1pg/edit?tab=t.0)** → File → Make a copy
 - Fill in every job, metric, and tool across your whole career. If you have multiple CV versions, copy bullet points from all of them into the relevant sections. More content = better output.
 - When done: **File → Download → Plain Text (.txt)**
-- Rename the file to `1-all-merged-cv-bank.md`
-- Unzip the "marketing-resume-builder" folder you donwloaded in step 1 → drop your file into `context/` folder → re-zip (select the entire "marketing-resume-builder" folder, right click, and select compress)
+- Rename the file to `all-experience.md`
+- Unzip the "marketing-resume-builder-public" folder you donwloaded in step 1 → drop your file into `context/` folder → re-zip (select the entire "marketing-resume-builder-public" folder, right click, and select compress)
 
 ### Step 3 — Install the skill in Claude
 - Go to [claude.ai](https://claude.ai) → profile icon → **Settings → Customize → Skills**
-- Click **Upload skill** → select the ZIP file you donwloaded in step 1 → toggle the skill **on**
+- Click **Upload skill** → select the ZIP file you either downloaded in step 1 or just compressed in step 2 → toggle the skill **on**
 
 
 ### Step 3 — Tailor your CV
 Start a new chat in Claude and say:
 
-> "Use my marketing-resume-builder skill. Here's a job I'm applying to: [paste job description or URL]. Tailor my CV for this role."
+> "Use my marketing-resume-builder-public skill. Here's a job I'm applying to: [paste job description or URL]. Tailor my CV for this role."
 
 Claude will produce a `.docx` file named after the company and role, ready to open and make final edits.
 
 ---
 
 ## Tips
-- **Include everything in your master CV** — don't edit yourself. The AI decides what to cut, not you
+- **Include everything in your all-experience doc** — don't cut it down yourself. The AI decides what to cut, not you
 - **Paste the full job description** — the more detail Claude has, the better the language matching
 - **Always review the output** — the AI won't fabricate anything, but read through before sending
 
